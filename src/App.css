@@ -1,1 +1,16 @@
+body{
+  background-color: darkslategray;
+  min-height: 100vh;
+}
 
+*{
+  box-sizing: border-box;
+}
+
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+img{
+  max-width: 100%;
+}
